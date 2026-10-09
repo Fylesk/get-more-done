@@ -1,3 +1,3 @@
-20261008-upd1
-e53024222cfc79d4b06f4cba2c832eef7074fca673972b6d9c5244f4670a0bee
-https://github.com/Fylesk/get-more-done/releases/download/20261008-upd1/WorkNag.zip
+20261008-upd2
+149b5096c143d0788021c3e965e35e59a336e3c320509aca662638f9f8118e71
+https://github.com/Fylesk/get-more-done/releases/download/20261008-upd2/WorkNag.zip
